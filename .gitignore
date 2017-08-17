@@ -1,0 +1,12 @@
+out/
+*.jar
+*.war
+*.ctxt
+*.ear
+*.log
+*.rar
+*.zip
+*.tar.gz
+hs_err_pid*
+*.class
+.mtj.tmp/
